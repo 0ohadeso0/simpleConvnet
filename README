@@ -1,0 +1,6 @@
+first run mnistSaveAsNumpy.py to translate all data to numpy array
+
+then train you model use mnistConvTrain.py
+
+run mnistTest.py to test using the pretrained model
+
